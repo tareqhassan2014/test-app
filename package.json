@@ -1,0 +1,25 @@
+{
+    "name": "test-app",
+    "version": "1.0.0",
+    "description": "```ch",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node src/server.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/tareqhassan2014/test-app.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/tareqhassan2014/test-app/issues"
+    },
+    "homepage": "https://github.com/tareqhassan2014/test-app#readme",
+    "dependencies": {
+        "dotenv": "^16.0.0",
+        "express": "^4.17.3"
+    }
+}
